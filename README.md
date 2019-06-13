@@ -1,9 +1,11 @@
 # OselotTest
 
-Librerias:
 
-Retrofit - para consumo de servicios.
+Libraries:
 
-Picasso - para abrir y renderizar imagenes.
 
-Android Support - para el diseño de la app, listas, componentes y cards de material design.
+Retrofit - for consumption of services.
+
+Picasso - to open and render images.
+
+Android Support - for the design of the app, lists, components and cards of material design.

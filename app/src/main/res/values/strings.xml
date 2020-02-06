@@ -24,4 +24,5 @@
     <string name="login_failed">"Login failed"</string>
     <string name="age"><b>Age: </b>%1$s years old</string>
     <string name="name"><b>Name: </b>%1$s</string>
+    <!--<string name="title_activity_map">Map</string>-->
 </resources>
